@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdullah Ashraf</h1>
 <h3 align="center">A normie developer and CS Student having fun coding.</h3>
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/9af72bbac8e761a96e946972cb2a2cd02563f1c842b6795587f2627323e75cbe/68747470733a2f2f632e74656e6f722e636f6d2f336254785a34486472797341414141642f706978656c732d6e656f6e2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iabdullahash&label=Profile%20views&color=0e75b6&style=flat" alt="iabdullahash" /> </p>
 
