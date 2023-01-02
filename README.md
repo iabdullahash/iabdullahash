@@ -1,5 +1,5 @@
-<h1 align="center" height="5">
- <img src="https://img.freepik.com/premium-vector/web-development-programming-laptop-smartphone_73903-163.jpg?w=2000" />
+<h1 align="center">
+ <img src="https://img.freepik.com/premium-vector/web-development-coding-programming-futuristic-banner-computer-code-laptop_3482-5572.jpg" />
 </h1>
 <h1 align="center">Hi 👋, I'm Abdullah Ashraf</h1>
 <h3 align="center">A normie developer and CS Student having fun coding.</h3>
