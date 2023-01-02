@@ -2,7 +2,7 @@
  <img src="https://img.freepik.com/premium-vector/web-development-coding-programming-futuristic-banner-computer-code-laptop_3482-5572.jpg" />
 </h1>
 <h1 align="center">Hi 👋, I'm Abdullah Ashraf</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Exo+2&weight=600&pause=1000&center=true&vCenter=true&width=800&lines=A+normie+developer+and+CS+Student+having+fun+coding." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Exo+2&weight=600&duration=4500&pause=2000&color=7900F7&center=true&vCenter=true&multiline=true&width=800&height=80&lines=A+normie+developer+and+CS+Student+having+fun+coding." alt="Typing SVG" /></a>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/9af72bbac8e761a96e946972cb2a2cd02563f1c842b6795587f2627323e75cbe/68747470733a2f2f632e74656e6f722e636f6d2f336254785a34486472797341414141642f706978656c732d6e656f6e2e676966">
 
 
