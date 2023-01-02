@@ -28,7 +28,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iabdullahash&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="iabdullahash" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iabdullahash&theme=tokyonight&show_icons=true&locale=en" alt="iabdullahash" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iabdullahash&theme=tokyonight&include_all_commits=true&show_icons=true&locale=en" alt="iabdullahash" /></p>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=iabdullahash&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
